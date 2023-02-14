@@ -1,6 +1,5 @@
 # implementation
-기능 구현들
-  - React, Javascript, StyledComponents
+🛠 React, Javascript, StyledComponents
 
 ✨ swiper 라이브러리를 사용하여 자동 슬라이드 구현
    - 3초마다 화면 전환
