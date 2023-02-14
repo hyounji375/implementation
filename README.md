@@ -8,9 +8,3 @@ swiper 라이브러리 사용.
 
 swiper 사이트 : https://swiperjs.com/react
 
-🎆 npm start 🎆
-
-
-
-https://user-images.githubusercontent.com/105581499/218740851-897d3a09-3a8a-4814-9d2c-46d5fe2e0e08.mp4
-
