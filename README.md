@@ -6,3 +6,7 @@ the others
    3. button에 onclick 함수를 만든다.
    4. 만든 onClick 함수에 input의 ref.current.click();를 적어준다.
    => PostForm.js 파일 참고
+   
+✨ true, false를 왔다 갔다 바꿔주는 함수
+   const [state, setState] = useState(false);
+   const onClick = useCallback(()=>{ setState((prev) => !prev },[])
