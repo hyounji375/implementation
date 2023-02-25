@@ -1,9 +1,7 @@
-# implementation
-🛠 React, Javascript, StyledComponents
+the others
 
-✨ swiper 라이브러리를 사용하여 자동 슬라이드, 버튼 슬라이드 구현
-   - 3초마다 화면 전환
-   - 마지막 화면에서 다시 첫 번째 화면으로 가는 무한 루프
-  ----------------------------------------------------
-   - 한 번 보여줄 때 4개의 div 보여줌
-   - 좌우의 화살표 클릭 시 1개씩 이동
+✨ 버튼 클릭 시 파일 선택할 수 있는 창 띄우기
+   1. button과 input을 만든다.
+   2. input type을 file로 하고 ref 값을 주고 display는 안 보이게 해준다.
+   3. button에 onclick 함수를 만든다.
+   4. 만든 onClick 함수에 input의 ref.current.click();를 적어준다.
