@@ -23,3 +23,4 @@ swiper 사이트 : https://swiperjs.com/react
 🎈 버튼 누르면 좌우로 움직이는 슬라이드
    - 해시태그 글자 길이에 따라 너비가 변함
    - 처음 부분과 마지막 부분에서는 더 이상 움직이지 않도록 함
+   - hashtagSlide.js 참고
